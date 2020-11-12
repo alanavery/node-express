@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Learning about Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delayedaa/node-express.git"
+  },
+  "author": "Alan Avery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delayedaa/node-express/issues"
+  },
+  "homepage": "https://github.com/delayedaa/node-express#readme"
+}
